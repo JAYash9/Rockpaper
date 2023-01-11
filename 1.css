@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+button{
+    font-style: italic;
+    font-weight: lighter;
+}
